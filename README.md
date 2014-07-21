@@ -6,8 +6,8 @@ Generic implementation of Information Theory-based Feature Selection methods. It
 
 ## Contributors
 
-Héctor Mouriño-Talín (h.mtalin@udc.es)
-David Martínez-Rego (dmartinez@udc.es)
+- Héctor Mouriño-Talín (h.mtalin@udc.es)
+- David Martínez-Rego (dmartinez@udc.es)
 
 ## References
 ```
